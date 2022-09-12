@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\test5.html"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\test4.html"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\test3.html"
+        },
+        {
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\test2.html"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\test1.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open indexpage.html",
+            "file": "c:\\Users\\Sony VGN-CR353\\Desktop\\project\\test123\\indexpage.html"
+        }
+    ]
+}
